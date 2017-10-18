@@ -1,2 +1,3 @@
-# soso-slider
-Simple horizontal slider
+# \<soso-slider\>
+
+A simple horizontal slider
